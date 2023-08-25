@@ -1,0 +1,9 @@
+.v-loading-bar {
+    background-color: blue !important; /* Customize the loading bar color */
+    height: 3px; /* Customize the loading bar height */
+    position: fixed;
+    top: 100px;
+    left: 0;
+    width: 100%;
+    z-index: 9999999 !important ; /* Ensure it's above other content */
+  }
